@@ -1,0 +1,26 @@
+Datastructures
+  * sorting
+    ->  quick           (have to complete this by 12-04-2023)
+    -> bubble           
+    -> bfs
+    -> dfs
+   * minimum spaning
+    -> dijikstra        (completes this by 13-04-2023)
+    -> prims              
+    -> krushkal
+   * backtracking
+   * tress 
+    
+cisco course
+   * python 
+   
+webdevelopment 
+   * git
+   * mongodb
+   * sql
+   * api
+   * python 
+   * django
+   * solidity
+   
+apptitude 
