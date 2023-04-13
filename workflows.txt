@@ -1,11 +1,11 @@
 Datastructures
   * sorting
     ->  quick           (have to complete this by 12-04-2023)--Completed on 13-04-2023;
-    -> bubble           
+    -> Merge            (have to complete this by 13-04-2023)           
     -> bfs
     -> dfs
    * minimum spaning
-    -> dijikstra        (completes this by 13-04-2023)
+    -> dijikstra        (completes this by 14-04-2023)
     -> prims              
     -> krushkal
    * backtracking
