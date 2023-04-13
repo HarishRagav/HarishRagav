@@ -1,6 +1,6 @@
 Datastructures
   * sorting
-    ->  quick           (have to complete this by 12-04-2023)
+    ->  quick           (have to complete this by 12-04-2023)--Completed on 13-04-2023;
     -> bubble           
     -> bfs
     -> dfs
