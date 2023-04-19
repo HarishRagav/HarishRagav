@@ -1,0 +1,4 @@
+typeof(varName)    -----> it shows the type of the followin
+varname.splice(5)  -----> it shows the only element of the index 5
+varName[5]         -----> ""   ""     ""     ""
+slice(5)           -----> it shows the element from the index 5
