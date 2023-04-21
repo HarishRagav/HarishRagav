@@ -16,6 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=HarishRagav&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HarishRagav&icon=3&color=12)]
+![](https://visitcount.itsvg.in/api?id=HarishRagav&icon=3&color=12)
 <!-- (https://visitcount.itsvg.in) -->
 
