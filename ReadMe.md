@@ -103,14 +103,6 @@ I enjoy turning messy workflows into scalable systems.
 
 ![](https://github-profile-trophy.vercel.app/?username=HarishRagav\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=4)
 
----
-
-# 👀 Profile Views
-
-![](https://visitcount.itsvg.in/api?id=HarishRagav\&icon=5\&color=12)
-
----
-
 > "Building systems that make businesses run smoother."
 
 ```
