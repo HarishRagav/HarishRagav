@@ -98,7 +98,6 @@ I enjoy turning messy workflows into scalable systems.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarishRagav\&theme=tokyonight\&hide_border=true\&layout=compact)
 
 ---
-
 # 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=HarishRagav\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=4)
