@@ -89,19 +89,6 @@ I enjoy turning messy workflows into scalable systems.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HarishRagav&theme=dark&border_radius=4.8)](https://git.io/streak-stats)
 
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=HarishRagav\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
-
-## 💻 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarishRagav\&theme=tokyonight\&hide_border=true\&layout=compact)
-
----
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=HarishRagav\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=4)
-
 > "Building systems that make businesses run smoother."
 
 ```
