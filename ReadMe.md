@@ -6,7 +6,6 @@ Role: Programmer • Product Builder • Entrepreneur
 Focus: Billing Systems, CRM, AI Workflows & Business Automation
 Location: Tamil Nadu, India
 ```
-
 Building software that solves operational chaos for real businesses.
 
 Currently focused on:
@@ -21,7 +20,6 @@ Currently focused on:
 I enjoy turning messy workflows into scalable systems.
 
 ---
-
 # 🚀 Current Projects
 
 * 💳 Multi-terminal Billing Software
@@ -62,11 +60,6 @@ I enjoy turning messy workflows into scalable systems.
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge\&logo=figma)
 ![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge\&logo=adobephotoshop)
-
----
-
-
-📧 [thestrangeclouds@gmail.com](mailto:thestrangeclouds@gmail.com)
 
 ---
 
