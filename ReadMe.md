@@ -32,17 +32,14 @@ I enjoy turning messy workflows into scalable systems.
 * 🔧 Workflow Automation Tools for Businesses
 
 ---
-
 # 🛠️ Tech Stack
 
 ### Languages
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge\&logo=mysql)
 
 ### Frontend
-
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge\&logo=css3)
@@ -50,20 +47,17 @@ I enjoy turning messy workflows into scalable systems.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge\&logo=bootstrap)
 
 ### Backend & Database
-
 ![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge\&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge\&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
 
 ### Desktop & AI
-
 ![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge\&logo=electron)
 ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge\&logo=opencv)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge\&logo=tensorflow)
 
 ### Tools & Design
-
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge\&logo=figma)
@@ -71,13 +65,6 @@ I enjoy turning messy workflows into scalable systems.
 
 ---
 
-# 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge\&logo=instagram)](https://instagram.com/Violin_walker)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/Harishragav)
-
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge\&logo=x)](https://twitter.com/Violin_walker)
 
 📧 [thestrangeclouds@gmail.com](mailto:thestrangeclouds@gmail.com)
 
