@@ -65,7 +65,7 @@ I enjoy turning messy workflows into scalable systems.
 
 # 📊 GitHub Analytics
 
-## 🔥 Contribution Streak
+## 🔥 Contribution Streak 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HarishRagav&theme=dark&border_radius=4.8)](https://git.io/streak-stats)
 
