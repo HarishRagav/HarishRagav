@@ -15,7 +15,7 @@ Currently focused on:
 * 🤖 AI-powered Photo & Face Recognition Systems
 * ☁️ Cloud + Offline Business Infrastructure
 * 🖥️ Electron-based Desktop Applications
-* 🔌 IoT & Hardware Integrations.
+* 🔌 IoT & Hardware Integrations
 
 I enjoy turning messy workflows into scalable systems.
 
