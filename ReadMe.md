@@ -11,7 +11,7 @@ Building software that solves operational chaos for real businesses.
 Currently focused on:
 
 * ⚡ High-performance Billing Systems
-* 🧠 CRM & Workflow Automation
+* 🧠 CRM & Workflow Automation 
 * 🤖 AI-powered Photo & Face Recognition Systems
 * ☁️ Cloud + Offline Business Infrastructure
 * 🖥️ Electron-based Desktop Applications
