@@ -67,5 +67,5 @@ I enjoy turning messy workflows into scalable systems.
 
 ## 🔥 Contribution Streak 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HarishRagav&theme=dark&fire=FF5E5EcurrStreakNum=FF5E5E&border_radius=9.6)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=HarishRagav&theme=dark&timezone=IST)](https://git.io/streak-stats)
 > "Building systems that make businesses run smoother."
